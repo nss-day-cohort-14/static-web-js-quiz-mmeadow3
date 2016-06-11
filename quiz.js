@@ -1,8 +1,8 @@
 
 var tree = { };
 
-var Height = document.getElementById("height");
-var Symbol = document.getElementById("symbol");
+var height = document.getElementById("height");
+var symbol = document.getElementById("symbol");
 
 var newTree = document.getElementById('build');
 build.addEventListener('click', makeTree);
